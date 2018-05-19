@@ -277,3 +277,18 @@ config/apache.conf
   </Directory>
 </VirtualHost>
 
+
+
+
+OTRO LINK PARA DEPLOYMENT QUE PUEDE FUNCIONAR (DIGITALOCEAN Y UN BLOG PERSONAL)
+
+1)
+https://gist.github.com/yosukehasumi/ea882abdcdf6f17d0d12280de136dce5
+
+
+2)
+https://www.ralfebert.de/tutorials/rails-deployment/
+
+
+OK TED.
+
